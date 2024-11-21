@@ -43,7 +43,6 @@
   "devDependencies": {
     "@stdlib/array-base-zero-to": "^0.2.1",
     "@stdlib/assert-is-boolean": "^0.2.2",
-    "@stdlib/assert-is-same-array-like-object-lib": "github:stdlib-js/assert-is-same-array-like-object-lib#main",
     "@stdlib/math-base-special-pow": "^0.3.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
